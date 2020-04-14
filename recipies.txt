@@ -3,3 +3,5 @@ welcome to my kitchen
 pizza 
 pasta
 spegetti
+kheer
+samosa
